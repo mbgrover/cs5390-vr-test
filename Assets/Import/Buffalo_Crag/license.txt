@@ -1,0 +1,11 @@
+Model Information:
+* title:	Buffalo Crag
+* source:	https://sketchfab.com/3d-models/buffalo-crag-ba21384580bb470d91d9fa0a329112e9
+* author:	outsider (https://sketchfab.com/outsider)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Buffalo Crag" (https://sketchfab.com/3d-models/buffalo-crag-ba21384580bb470d91d9fa0a329112e9) by outsider (https://sketchfab.com/outsider) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
